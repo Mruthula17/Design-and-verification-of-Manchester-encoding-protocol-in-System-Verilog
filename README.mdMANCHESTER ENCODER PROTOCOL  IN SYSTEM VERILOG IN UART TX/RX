@@ -1,0 +1,4 @@
+This project implements a complete Manchester-encoded UART communication system in SystemVerilog.
+It supports encoding 8-bit data into Manchester format, transmitting via UART, receiving it back, and decoding to verify data integrity.
+
+Designed and verified using EDA Playground.
